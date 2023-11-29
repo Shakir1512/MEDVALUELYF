@@ -399,7 +399,7 @@
     },
     {
         "createdAt": "cipla",
-        "Title": "h",
+        "Title": "Health Care",
         "avatar": "https://cdn01.pharmeasy.in/dam/products/032087/calpol-500mg-strip-of-15-tablets-2-1653986000.jpg?dim=1440x0",
         "category": "tab",
         "description": "10",
@@ -434,7 +434,7 @@
         "id": "75"
     },
     {
-        "createdAt": "dssdfsd",
+        "createdAt": "",
         "Title": "combiflame",
         "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/I38223/combiflam-plus-headache-relief-tablet-strip-of-10-tablets-1-1593674192.jpg",
         "category": "tablet",
@@ -442,49 +442,5 @@
         "price": "50",
         "id": "76"
     },
-    {
-        "createdAt": "Dove",
-        "Title": "Dove",
-        "avatar": "",
-        "category": "Soap",
-        "description": "50g",
-        "price": "10",
-        "id": "77"
-    },
-    {
-        "createdAt": "",
-        "Title": "",
-        "avatar": "",
-        "category": "",
-        "description": "",
-        "price": "",
-        "id": "78"
-    },
-    {
-        "createdAt": "Himalaya Anti Hair Fall Shampoo",
-        "Title": "Himalaya",
-        "avatar": "Himalaya",
-        "category": "Hair Fall Shampoo",
-        "description": "400ml",
-        "price": "235",
-        "id": "79"
-    },
-    {
-        "createdAt": "",
-        "Title": "",
-        "avatar": "",
-        "category": "",
-        "description": "",
-        "price": "",
-        "id": "80"
-    },
-    {
-        "createdAt": "",
-        "Title": "",
-        "avatar": "",
-        "category": "",
-        "description": "",
-        "price": "",
-        "id": "81"
-    }
+    
 ]
