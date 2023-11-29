@@ -1,0 +1,490 @@
+[
+    
+    
+    {
+        "createdAt": "By AVIGHNA MEDICARE PVT LTD",
+        "Title": "Teplota 100mg Bottle Of 15ml Syrup",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/W38967/teplota-100mg-bottle-of-15ml-syrup-1-1661333432.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "15ml Syrup in Bottle",
+        "price": 22,
+        "id": "11"
+    },
+    {
+        "createdAt": "By MICRO LABS",
+        "Title": "Dolo 650mg Strip Of 15 Tablets",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/059346/dolo-650mg-strip-of-15-tablets-2-1653986150.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "15 Tablet(s) in Strip",
+        "price": 30,
+        "id": "12"
+    },
+    {
+        "createdAt": "By APEX LABORATORIES PRIVATE LIMITED",
+        "Title": "P 250mg Suspension 60ml",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/192737/p-250mg-suspension-60ml-2-1664872759.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "60ml Suspension in Bottle",
+        "price": 40,
+        "id": "13"
+    },
+    {
+        "createdAt": "By LUPIN",
+        "Title": "Signoflam Tablet",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/159470/signoflam-tablet-2-1641532389.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "10 Tablet(s) in Strip",
+        "price": 105,
+        "id": "14"
+    },
+    {
+        "createdAt": "By ALKEM LABORATORIES LTD",
+        "Title": "Sumo Strip Of 15 Tablets",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/246298/sumo-strip-of-15-tablets-2-1641530417.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "15 Tablet(s) in Strip",
+        "price": 116,
+        "id": "15"
+    },
+    {
+        "createdAt": "By ALEMBIC PHARMACEUTICALS LTD",
+        "Title": "Magadol Tablet",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/109590/magadol-tablet-2-1641531014.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "10 Tablet(s) in Strip",
+        "price": 62,
+        "id": "16"
+    },
+    {
+        "createdAt": "By CIPLA GX",
+        "Title": "Paracip 650mg Tablet",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/266953/paracip-650mg-tablet-2-1658934278.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "10 Tablet(s) in Strip",
+        "price": 18,
+        "id": "17"
+    },
+    {
+        "createdAt": "By LUPIN",
+        "Title": "Acemiz Mr Tablet",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/200802/acemiz-mr-tablet-2-1641533466.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "10 Tablet(s) in Strip",
+        "price": 85,
+        "id": "18"
+    },
+    {
+        "createdAt": "By MICRO LABS",
+        "Title": "Dolopar 650mg Strip Of 15 Tablets",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/269216/dolopar-650mg-strip-of-15-tablets-1-1641533687.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "15 Tablet(s) in Strip",
+        "price": 26,
+        "id": "19"
+    },
+    {
+        "createdAt": "By MICRO LABS",
+        "Title": "Dolo 250mg Suspension 60ml",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/059336/dolo-250mg-susp-2-1641535615.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Paracetamol",
+        "description": "60ml Suspension in Bottle",
+        "price": 40,
+        "id": "20"
+    },
+    {
+        "createdAt": "By Digene",
+        "Title": "Digene Assorted Antacid Tablets Strip Of 15",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/270620/digene-acidity-gas-relief-tablets-15s-mint-flavour-2-1669616543.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Antacid",
+        "description": "15 Tablet(s) in Strip",
+        "price": 19,
+        "id": "21"
+    },
+    {
+        "createdAt": "By Polycrol",
+        "Title": "Polycrol Antacid Gel - Xpress Relief From Acidity & Gas - Sugar Free - Mint Flavour - 200ml",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/200670/polycrol-antacid-gel-xpress-relief-from-acidity-gas-sugar-free-mint-flavour-450ml-2-1670057721.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Antacid",
+        "description": "450ml in Bottle",
+        "price": 168,
+        "id": "22"
+    },
+    {
+        "createdAt": "By Eno",
+        "Title": "Eno Orange Antacid Sachet Of 5 G",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/228967/eno-orange-antacid-sachet-of-5-g-2-1669634655.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Antacid",
+        "description": "5g Sachet",
+        "price": 9,
+        "id": "24"
+    },
+    {
+        "createdAt": "By Gelusil",
+        "Title": "Gelusil Mps Original Mint Flavour Tablet 15'S",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/T43801/gelusil-mps-original-mint-flavour-tablet-15s-1-1641788479.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Antacid",
+        "description": "15 Tablets",
+        "price": 19,
+        "id": "25"
+    },
+    {
+        "createdAt": "By Charak",
+        "Title": "Charak Alsarex Tablets",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/006910/charak-alsarex-tablets-2-1669619130.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Antacid",
+        "description": "15 Tablets",
+        "price": 92,
+        "id": "26"
+    },
+    {
+        "createdAt": "By Forestreasures",
+        "Title": "Forestreasures Antacid Syp 210ml",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/G19907/forestreasures-antacid-syp-210ml-2-1666791566.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Antacid",
+        "description": "210ml in Bottle",
+        "price": 120,
+        "id": "28"
+    },
+    {
+        "createdAt": "By Citro Soda",
+        "Title": "Citro Soda Sf Sach 4gm",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/042320/citro-soda-sf-sach-4gm-2-1669619413.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Antacid",
+        "description": "4gm Sachet",
+        "price": 24,
+        "id": "29"
+    },
+    {
+        "createdAt": "By Biogetica",
+        "Title": "Biogetica Acidsolve (Antacid Pro Digestion) 80 Capsules",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/B06910/biogetica-acidsolve-antacid-pro-digestion-80-capsules-2-1649668023.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Antacid",
+        "description": "80 capsules in bottle",
+        "price": 500,
+        "id": "30"
+    },
+    {
+        "createdAt": "By Prolyte",
+        "Title": "Prolyte Ors Orange Drink Sachet (21 Gm)",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/W81928/prolyte-ors-orange-drink-sachet-21-gm-2-1654249497.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "21gm Sachet",
+        "price": 19,
+        "id": "31"
+    },
+    {
+        "createdAt": "By Fast&Up",
+        "Title": "Fast&Up Reload Hydration & Energy Drink With Electrolytes - Effervescent Tablets - Cola (20 Tablets)",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/I42134/fastup-reload-hydration-energy-drink-with-electrolytes-effervescent-tablets-cola-20-tablets-2-1669710899.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "20 Tablets in Bottle",
+        "price": 240,
+        "id": "32"
+    },
+    {
+        "createdAt": "By Liveasy",
+        "Title": "Liveasy Wellness Oral Rehydration Salts-20.5g Sachet -Orange Flavour",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/V81246/liveasy-wellness-oral-rehydration-salts-205g-sachet-orange-flavour-2-1658310761.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "20.5g Sachet",
+        "price": 20,
+        "id": "33"
+    },
+    {
+        "createdAt": "By Prolyte",
+        "Title": "Prolyte Ors Ready To Drink Oral Rehydration Salts-Orange(200 Ml)",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/U18251/prolyte-ors-ready-to-drink-oral-rehydration-salts-orange200-ml-2-1661230626.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "200ml in Bottle",
+        "price": 33,
+        "id": "34"
+    },
+    {
+        "createdAt": "By Amrutanjan",
+        "Title": "Amrutanjan Electro Plus Ors Orange Health Drink Bottle Of 200 Ml",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/E42593/amrutanjan-electro-plus-ors-orange-health-drink-bottle-of-200-ml-2-1641789022.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "200ml in Bottle",
+        "price": 35,
+        "id": "35"
+    },
+    {
+        "createdAt": "By Prolyte",
+        "Title": "Prolyte Ors Nimbu Paani 200ml",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/V90108/prolyte-ors-nimbu-paani-200ml-2-1655559043.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "200ml in Bottle",
+        "price": 32,
+        "id": "36"
+    },
+    {
+        "createdAt": "By Cipla",
+        "Title": "Hyperneb 7% Respules 4 Ml",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/D61369/hyperneb-7-respules-4-ml-3-1641792049.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "7% Respules 4 Ml",
+        "price": 17,
+        "id": "37"
+    },
+    {
+        "createdAt": "By Electrorush",
+        "Title": "Electrorush Ors Orange Drink Pack Of 8 (200ml)",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/K38425/electrorush-ors-orange-drink-pack-of-8-200ml-2-1659162419.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "200ml in Bottle",
+        "price": 260,
+        "id": "38"
+    },
+    {
+        "createdAt": "By Pawahy",
+        "Title": "Pawahy Isotonic Drink Endurance Workout Electrolyte Energy Drink With 2:1:1 Bcaa- 1kg Lemonade)",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/B37055/pawahy-isotonic-drink-endurance-workout-electrolyte-energy-drink-with-2-1-1-bcaa-1kg-lemonade-2-1668435517.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "6 Tablets",
+        "price": 888,
+        "id": "39"
+    },
+    {
+        "createdAt": "By Welocity Booster",
+        "Title": "Welocity Booster'S B Fresssh- Instant Energy Natural Caffine With Anti Oxidants Fat Burner",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/P47001/welocity-boosters-b-fresssh-instant-energy-natural-caffine-with-anti-oxidants-fat-burner-2-1659163770.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Energy Drink",
+        "description": "100 ml in Bottle",
+        "price": 1200,
+        "id": "40"
+    },
+    {
+        "createdAt": "By PANKAJA KASTURI",
+        "Title": "Orthoherb Tablets 60'S",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/I09207/orthoherb-tab-60s-3-1641536403.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Ayurvedic",
+        "description": "60 Tablet(s) in Bottle",
+        "price": 300,
+        "id": "41"
+    },
+    {
+        "createdAt": "By Himalaya",
+        "Title": "Pilex Tablets 60'S",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/139300/pilex-tablets-60s-2-1669616734.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Ayurvedic",
+        "description": "60 Tablet(s) in Bottle",
+        "price": 150,
+        "id": "42"
+    },
+    {
+        "createdAt": "By Everherb",
+        "Title": "Everherb (By Pharmeasy) Amla Juice-Rich In Vitamin C-Natural Immunity Booster - 1 Litre Bottle",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/D92359/everherb-by-pharmeasy-amla-juice-rich-in-vitamin-c-natural-immunity-booster-1-litre-bottle-2-1654169607.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Ayurvedic",
+        "description": "1 Litre Bottle",
+        "price": 199,
+        "id": "43"
+    },
+    {
+        "createdAt": "By CIPLA GX",
+        "Title": "Cofryl Cough Syrup 100ml",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/045655/cofryl-cough-syrup-100ml-2-1641535580.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Cough Syrup",
+        "description": "100ml Syrup in Bottle",
+        "price": "70",
+        "id": "59"
+    },
+    {
+        "createdAt": "Recofast ",
+        "Title": "Recofast Orange Lozenges 10'S",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/384173/recofast-orange-lozenges-10s-1-1669710261.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Tablets",
+        "description": "10 tablets",
+        "price": "43",
+        "id": "60"
+    },
+    {
+        "createdAt": "Dr. Vaidya'S",
+        "Title": "Dr. Vaidya'S Inhalant For Nasal Decongestion",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/I42079/dr-vaidyas-inhalant-for-nasal-decongestion-10g-each-pack-of-3-2-1669710670.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Cough syrup",
+        "description": "",
+        "price": "210",
+        "id": "61"
+    },
+    {
+        "createdAt": "By DR REDDY'S LABORATORIES LTD",
+        "Title": "Viscodyne Sugar Free Bottle Of 100ml Cough Syrup",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/181955/viscodyne-sugar-free-bottle-of-100ml-cough-syrup-2-1641534531.jpg?dim=320x320&dpr=1&q=100",
+        "category": "cough syrup",
+        "description": "100ml Syrup in Bottle",
+        "price": "110",
+        "id": "62"
+    },
+    {
+        "createdAt": "By IPCA LABORATORIES",
+        "Title": "Solvin Sugar Free Cough Syrup 60ml",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/I38145/solvin-sugar-free-cough-syrup-60ml-2-1641538605.jpg?dim=320x320&dpr=1&q=100",
+        "category": "cough syrup",
+        "description": "60ml Syrup in Bottle",
+        "price": "58",
+        "id": "63"
+    },
+    {
+        "createdAt": "By Vicks",
+        "Title": "Vicks Vaporub 25ml Relief From Cold Cough Headache And Body Pain",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/181135/vicks-vaporub-25ml-relief-from-cold-cough-headache-and-body-pain-2-1669655043.jpg?dim=700x0&dpr=1&q=100",
+        "category": "Cough relieve",
+        "description": "25 ml ",
+        "price": "86",
+        "id": "64"
+    },
+    {
+        "createdAt": "By ALKEM LABORATORIES LTD",
+        "Title": "Alkof Junior Bottle Of 60ml Cough Syrup",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/265923/alkof-junior-bottle-of-60ml-cough-syrup-2-1669815301.jpg?dim=320x320&dpr=1&q=100",
+        "category": "Cough syrup",
+        "description": "60ml Syrup in Bottle",
+        "price": "47",
+        "id": "65"
+    },
+    {
+        "createdAt": "By Upglam",
+        "Title": "Upglam Onion Oil Shampoo",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-2-1659342340.jpg",
+        "category": "Shampoo",
+        "description": "300ml Shampoo in Bottle",
+        "price": "350",
+        "id": "66"
+    },
+    {
+        "createdAt": "Volini",
+        "Title": "Volini Pain Relief Gel Tube Of 30 G",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/183150/volini-pain-relief-gel-tube-of-30-g-2-1669616851.jpg?dim=700x0&dpr=1&q=100",
+        "category": "gel",
+        "description": "30 g",
+        "price": "110",
+        "id": "67"
+    },
+    {
+        "createdAt": "Volini",
+        "Title": "Volini Pain Relief Gel Tube Of 30 G",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/183150/volini-pain-relief-gel-tube-of-30-g-2-1669616851.jpg?dim=700x0&dpr=1&q=100",
+        "category": "gel",
+        "description": "30 g",
+        "price": "110",
+        "id": "68"
+    },
+    {
+        "createdAt": "Omnigel ",
+        "Title": "Omnigel Gel 30 Gm",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/I26937/omnigel-gel-30-gm-2-1669710416.jpg?dim=700x0&dpr=1&q=100",
+        "category": "gel",
+        "description": "30 g",
+        "price": "${price}",
+        "id": "69"
+    },
+    {
+        "createdAt": "Dabur",
+        "Title": "Dabur Rheumatil Gel 30 Gm",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/151905/dabur-rheumatil-gel-30-gm-2-1669655017.jpg?dim=700x0&dpr=1&q=100",
+        "category": "gel",
+        "description": "30 gm",
+        "price": "70",
+        "id": "70"
+    },
+    {
+        "createdAt": "Dabur",
+        "Title": "Dabur Rheumatil Gel 30 Gm",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/151905/dabur-rheumatil-gel-30-gm-2-1669655017.jpg?dim=700x0&dpr=1&q=100",
+        "category": "gel",
+        "description": "30 gm",
+        "price": "70",
+        "id": "71"
+    },
+    {
+        "createdAt": "cipla",
+        "Title": "h",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products/032087/calpol-500mg-strip-of-15-tablets-2-1653986000.jpg?dim=1440x0",
+        "category": "tab",
+        "description": "10",
+        "price": "20",
+        "id": "72"
+    },
+    {
+        "createdAt": "cipla",
+        "Title": "bandage",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/E52686/liveasy-surgicals-rolled-bandage-pack-of-12-5cm-x-3mt-2-1653648071.jpg?dim=700x0&dpr=1&q=100",
+        "category": "ban",
+        "description": "99",
+        "price": "150",
+        "id": "73"
+    },
+    {
+        "createdAt": "By sdasd",
+        "Title": "Bon",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIfJQ8i2NWJfIhsSBPRN7LU4iz2i6D9aeUA&usqp=CAU",
+        "category": "asdasda",
+        "description": "1",
+        "price": "500",
+        "id": "74"
+    },
+    {
+        "createdAt": "Glaxosmithkline Pharmaceuticals Ltd.",
+        "Title": "crocin",
+        "avatar": "https://tse4.mm.bing.net/th?id=OIP.JPR1SnAoCGAtyovPflJaVgHaHa&pid=Api&P=0",
+        "category": "tablets",
+        "description": "1",
+        "price": "50",
+        "id": "75"
+    },
+    {
+        "createdAt": "dssdfsd",
+        "Title": "combiflame",
+        "avatar": "https://cdn01.pharmeasy.in/dam/products_otc/I38223/combiflam-plus-headache-relief-tablet-strip-of-10-tablets-1-1593674192.jpg",
+        "category": "tablet",
+        "description": "1",
+        "price": "50",
+        "id": "76"
+    },
+    {
+        "createdAt": "Dove",
+        "Title": "Dove",
+        "avatar": "",
+        "category": "Soap",
+        "description": "50g",
+        "price": "10",
+        "id": "77"
+    },
+    {
+        "createdAt": "",
+        "Title": "",
+        "avatar": "",
+        "category": "",
+        "description": "",
+        "price": "",
+        "id": "78"
+    },
+    {
+        "createdAt": "Himalaya Anti Hair Fall Shampoo",
+        "Title": "Himalaya",
+        "avatar": "Himalaya",
+        "category": "Hair Fall Shampoo",
+        "description": "400ml",
+        "price": "235",
+        "id": "79"
+    },
+    {
+        "createdAt": "",
+        "Title": "",
+        "avatar": "",
+        "category": "",
+        "description": "",
+        "price": "",
+        "id": "80"
+    },
+    {
+        "createdAt": "",
+        "Title": "",
+        "avatar": "",
+        "category": "",
+        "description": "",
+        "price": "",
+        "id": "81"
+    }
+]
